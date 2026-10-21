@@ -1,0 +1,14 @@
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.AssemblyInfoInputs.cache
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.AssemblyInfo.cs
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\OS\dinning\Dinning-prof\bin\Debug\net10.0\Dinning-prof.exe
+C:\Users\xxlaz\OS\dinning\Dinning-prof\bin\Debug\net10.0\Dinning-prof.deps.json
+C:\Users\xxlaz\OS\dinning\Dinning-prof\bin\Debug\net10.0\Dinning-prof.runtimeconfig.json
+C:\Users\xxlaz\OS\dinning\Dinning-prof\bin\Debug\net10.0\Dinning-prof.dll
+C:\Users\xxlaz\OS\dinning\Dinning-prof\bin\Debug\net10.0\Dinning-prof.pdb
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.dll
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\refint\Dinning-prof.dll
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.pdb
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\Dinning-prof.genruntimeconfig.cache
+C:\Users\xxlaz\OS\dinning\Dinning-prof\obj\Debug\net10.0\ref\Dinning-prof.dll
